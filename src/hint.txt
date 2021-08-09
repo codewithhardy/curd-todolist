@@ -1,0 +1,13 @@
+src
+|--components(folder)
+   |--TodoInput.js
+   |--TodoItem.js
+   |--TodoList.js 
+|--redux(folder)
+   |--action.js 
+   |--reducer.js (here we will create actions and reducer)
+   |--states.js (predefined state)
+   |--store.js
+
+|--css
+   |--App.css
